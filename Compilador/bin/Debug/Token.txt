@@ -1,0 +1,12 @@
+int
+char
+if
+else
+for
+while
+do
+cout<<
+cin>>
+cout
+cin
+#include

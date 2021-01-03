@@ -1,0 +1,140 @@
+C:\Users\Usuario\Desktop\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\Usuario\Desktop\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\Usuario\Desktop\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\Usuario\Desktop\Compilador\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Compilador\Compilador\obj\Debug\Compilador.exe
+C:\Users\Usuario\Desktop\Compilador\Compilador\obj\Debug\Compilador.pdb
+D:\Compilador\Compilador\bin\Debug\Compilador.exe.config
+D:\Compilador\Compilador\bin\Debug\Compilador.exe
+D:\Compilador\Compilador\bin\Debug\Compilador.pdb
+D:\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+D:\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.Cache
+D:\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+D:\Compilador\Compilador\obj\Debug\Compilador.exe
+D:\Compilador\Compilador\obj\Debug\Compilador.pdb
+C:\Users\Cuauhtli\Desktop\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\Cuauhtli\Desktop\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\Cuauhtli\Desktop\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\Cuauhtli\Desktop\Compilador\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+C:\Users\Cuauhtli\Desktop\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\Cuauhtli\Desktop\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\Cuauhtli\Desktop\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Cuauhtli\Desktop\Compilador\Compilador\obj\Debug\Compilador.exe
+C:\Users\Cuauhtli\Desktop\Compilador\Compilador\obj\Debug\Compilador.pdb
+D:\Compilador\Compilador\obj\Debug\Compilador.FormCompilador.resources
+C:\Users\Cuauhtli\Desktop\Compilador\Compilador\obj\Debug\Compilador.FormCompilador.resources
+C:\Users\Usuario\Desktop\Compilador\Compilador\obj\Debug\Compilador.FormCompilador.resources
+D:\Traductores 2\Compilador\Compilador\bin\Debug\Compilador.exe.config
+D:\Traductores 2\Compilador\Compilador\bin\Debug\Compilador.exe
+D:\Traductores 2\Compilador\Compilador\bin\Debug\Compilador.pdb
+D:\Traductores 2\Compilador\Compilador\obj\Debug\Compilador.csprojResolveAssemblyReference.cache
+D:\Traductores 2\Compilador\Compilador\obj\Debug\Compilador.FormCompilador.resources
+D:\Traductores 2\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+D:\Traductores 2\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.Cache
+D:\Traductores 2\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+D:\Traductores 2\Compilador\Compilador\obj\Debug\Compilador.exe
+D:\Traductores 2\Compilador\Compilador\obj\Debug\Compilador.pdb
+E:\Traductores 2\Compilador\Compilador\bin\Debug\Compilador.exe.config
+E:\Traductores 2\Compilador\Compilador\bin\Debug\Compilador.exe
+E:\Traductores 2\Compilador\Compilador\bin\Debug\Compilador.pdb
+E:\Traductores 2\Compilador\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+E:\Traductores 2\Compilador\Compilador\obj\Debug\Compilador.FormCompilador.resources
+E:\Traductores 2\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+E:\Traductores 2\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+E:\Traductores 2\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+E:\Traductores 2\Compilador\Compilador\obj\Debug\Compilador.exe
+E:\Traductores 2\Compilador\Compilador\obj\Debug\Compilador.pdb
+C:\Users\cuauh\Documents\INCO\6. Semestre\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\cuauh\Documents\INCO\6. Semestre\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\cuauh\Documents\INCO\6. Semestre\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\cuauh\Documents\INCO\6. Semestre\Compilador\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+C:\Users\cuauh\Documents\INCO\6. Semestre\Compilador\Compilador\obj\Debug\Compilador.FormCompilador.resources
+C:\Users\cuauh\Documents\INCO\6. Semestre\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\cuauh\Documents\INCO\6. Semestre\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\cuauh\Documents\INCO\6. Semestre\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\cuauh\Documents\INCO\6. Semestre\Compilador\Compilador\obj\Debug\Compilador.exe
+C:\Users\cuauh\Documents\INCO\6. Semestre\Compilador\Compilador\obj\Debug\Compilador.pdb
+F:\Compilador\Compilador\bin\Debug\Compilador.exe.config
+F:\Compilador\Compilador\bin\Debug\Compilador.exe
+F:\Compilador\Compilador\bin\Debug\Compilador.pdb
+F:\Compilador\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+F:\Compilador\Compilador\obj\Debug\Compilador.FormCompilador.resources
+F:\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+F:\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+F:\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+F:\Compilador\Compilador\obj\Debug\Compilador.exe
+F:\Compilador\Compilador\obj\Debug\Compilador.pdb
+C:\Users\cuauh\Documents\INCO\6. Semestre\Traductores II\Segundo entregable\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\cuauh\Documents\INCO\6. Semestre\Traductores II\Segundo entregable\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\cuauh\Documents\INCO\6. Semestre\Traductores II\Segundo entregable\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\cuauh\Documents\INCO\6. Semestre\Traductores II\Segundo entregable\Compilador\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+C:\Users\cuauh\Documents\INCO\6. Semestre\Traductores II\Segundo entregable\Compilador\Compilador\obj\Debug\Compilador.FormCompilador.resources
+C:\Users\cuauh\Documents\INCO\6. Semestre\Traductores II\Segundo entregable\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\cuauh\Documents\INCO\6. Semestre\Traductores II\Segundo entregable\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\cuauh\Documents\INCO\6. Semestre\Traductores II\Segundo entregable\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\cuauh\Documents\INCO\6. Semestre\Traductores II\Segundo entregable\Compilador\Compilador\obj\Debug\Compilador.exe
+C:\Users\cuauh\Documents\INCO\6. Semestre\Traductores II\Segundo entregable\Compilador\Compilador\obj\Debug\Compilador.pdb
+C:\Users\Cuauhtli\Documents\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\Cuauhtli\Documents\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\Cuauhtli\Documents\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\Cuauhtli\Documents\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+C:\Users\Cuauhtli\Documents\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.FormCompilador.resources
+C:\Users\Cuauhtli\Documents\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\Cuauhtli\Documents\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\Cuauhtli\Documents\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Cuauhtli\Documents\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.exe
+C:\Users\Cuauhtli\Documents\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.pdb
+D:\Compilador\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+C:\Users\cuauh\Documents\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\cuauh\Documents\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\cuauh\Documents\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\cuauh\Documents\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+C:\Users\cuauh\Documents\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.FormCompilador.resources
+C:\Users\cuauh\Documents\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\cuauh\Documents\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\cuauh\Documents\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\cuauh\Documents\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.exe
+C:\Users\cuauh\Documents\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.pdb
+F:\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\bin\Debug\Compilador.exe.config
+F:\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\bin\Debug\Compilador.exe
+F:\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\bin\Debug\Compilador.pdb
+F:\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+F:\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.FormCompilador.resources
+F:\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+F:\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+F:\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+F:\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.exe
+F:\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.pdb
+D:\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\bin\Debug\Compilador.exe.config
+D:\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\bin\Debug\Compilador.exe
+D:\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\bin\Debug\Compilador.pdb
+D:\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+D:\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.FormCompilador.resources
+D:\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+D:\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+D:\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+D:\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.exe
+D:\INCO\6. Semestre\Traductores II\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.pdb
+C:\Users\Usuario\Desktop\Tercer entregable\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\Usuario\Desktop\Tercer entregable\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\Usuario\Desktop\Tercer entregable\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\Usuario\Desktop\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.FormCompilador.resources
+C:\Users\Usuario\Desktop\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.exe
+C:\Users\Usuario\Desktop\Tercer entregable\Compilador\Compilador\obj\Debug\Compilador.pdb
+C:\Users\Usuario\Desktop\6t0\Traductores 2\Compilador 3\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\Usuario\Desktop\6t0\Traductores 2\Compilador 3\Compilador\bin\Debug\Compilador.exe
+C:\Users\Usuario\Desktop\6t0\Traductores 2\Compilador 3\Compilador\bin\Debug\Compilador.pdb
+C:\Users\Usuario\Desktop\6t0\Traductores 2\Compilador 3\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\6t0\Traductores 2\Compilador 3\Compilador\obj\Debug\Compilador.FormCompilador.resources
+C:\Users\Usuario\Desktop\6t0\Traductores 2\Compilador 3\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\Usuario\Desktop\6t0\Traductores 2\Compilador 3\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\6t0\Traductores 2\Compilador 3\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\6t0\Traductores 2\Compilador 3\Compilador\obj\Debug\Compilador.exe
+C:\Users\Usuario\Desktop\6t0\Traductores 2\Compilador 3\Compilador\obj\Debug\Compilador.pdb
